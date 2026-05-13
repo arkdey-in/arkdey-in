@@ -9,7 +9,7 @@ I have previously worked as a **Full-Stack Intern at IIT Guwahati TIC**.
 ### 🛠️ Tech Stack
 * **Languages:** Python, Java, C
 * **Web Development:** Flask, HTML/CSS, Tailwind, REST APIs
-* **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy , Opencv
+* **Machine Learning:** Scikit-learn, TensorFlow, Pandas, NumPy , Opencv
 * **Databases:** NeonDB (PostgreSQL), SQLite
 * **Tools:** Git/GitHub, Linux (macOS M2 environment)
 
@@ -24,7 +24,6 @@ I have previously worked as a **Full-Stack Intern at IIT Guwahati TIC**.
 
 ### 📫 Connect with Me
 * **Email:** arkdey01@gmail.com
-* **Location:** Tripura, India
-* **Focus:** Currently exploring Open Source contributions for **GSoC 2026**.
+* **Location:** Tripura, India 
 
 ![Ark's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkdey-in&show_icons=true&theme=radical)
