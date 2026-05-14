@@ -26,4 +26,3 @@ I have previously worked as a **Full-Stack Intern at IIT Guwahati TIC**.
 * **Email:** arkdey01@gmail.com
 * **Location:** Tripura, India 
 
-![Ark's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkdey-in&show_icons=true&theme=radical)
